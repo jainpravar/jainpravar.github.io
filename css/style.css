@@ -151,7 +151,7 @@ h1 {
 @-webkit-keyframes slide{
 
 	0%{
-		background-image: url(images/banner/banner2.jpg);
+		background-image: url('/images/banner/banner2.jpg');
 	}
 	20%{
 		background-image: url(../images/banner/banner3.jpg);
