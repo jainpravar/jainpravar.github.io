@@ -141,7 +141,7 @@ h1 {
 	margin-top: 50px;
 	display: block;
 	margin-bottom: 0px;
-	background-image: url(../images/banner/banner3.jpg);
+	background-image: url(../Images/banner/banner3.jpg);
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -151,29 +151,29 @@ h1 {
 @-webkit-keyframes slide{
 
 	0%{
-		background-image: url('/images/banner/banner2.jpg');
+		background-image: url('/Images/banner/banner2.jpg');
 	}
 	20%{
-		background-image: url(../images/banner/banner3.jpg);
+		background-image: url(../Images/banner/banner3.jpg);
 		opacity: 0.6;
 	}
 	
 	40%{
-		background-image: url(../images/banner/banner4.jpg);
+		background-image: url(../Images/banner/banner4.jpg);
 		opacity: 0.6;
 	}
 	
 	60%{
-		background-image: url(../images/banner/banner5.jpg);
+		background-image: url(../Images/banner/banner5.jpg);
 		opacity: 0.6;
 	}
 	
 	80%{
-		background-image: url(../images/banner/banner6.jpg);
+		background-image: url(../Images/banner/banner6.jpg);
 		opacity: 0.6;	
 	}
 	100%{
-		background-image: url(../images/banner/banner7.jpeg);
+		background-image: url(../Images/banner/banner7.jpeg);
 		opacity: 0.6;	
 	}
 	
